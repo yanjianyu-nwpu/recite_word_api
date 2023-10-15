@@ -41,6 +41,10 @@ func ReadTextFile(id int) (w *WordList) {
 	return
 }
 
+func WriteTextFile(w *WordList) {
+
+}
+
 //func HasFile(id int) bool {
 
 //}
